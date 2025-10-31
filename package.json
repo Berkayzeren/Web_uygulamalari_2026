@@ -1,0 +1,25 @@
+{
+  "name": "web_uygulamalari_2026",
+  "version": "1.0.0",
+  "description": "web uygulamaları 2026 dersi kapsamında",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Berkayzeren/Web_uygulamalari_2026.git"
+  },
+  "keywords": [
+    "web",
+    "uygulamaları",
+    "2026"
+  ],
+  "author": "berkay zeren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Berkayzeren/Web_uygulamalari_2026/issues"
+  },
+  "homepage": "https://github.com/Berkayzeren/Web_uygulamalari_2026#readme"
+}
